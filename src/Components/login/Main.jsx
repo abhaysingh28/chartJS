@@ -12,7 +12,7 @@ import Typography from "@mui/material/Typography";
 import { Chart } from "chart.js";
 import ChartComponent from "./ChartComponent";
 import { Box } from "@mui/material";
-
+ 
 const BootstrapDialog = styled(Dialog)(({ theme }) => ({
   "& .MuiDialogContent-root": {
     padding: theme.spacing(2),
