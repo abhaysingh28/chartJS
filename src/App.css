@@ -7,7 +7,7 @@ html,
 body {
   width: 100%;
 }
-.ag-theme-alpine {
+.ag-theme-alpine { 
   --ag-header-height: 30px;
   --ag-header-foreground-color: white;
   --ag-header-background-color: black;
